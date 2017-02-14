@@ -6,3 +6,6 @@ typedef int Status;
 //num 数组里面实际存储的元素个数
 Status BubbleSort(int *aimArray, int num);
 
+Status SelectSort(int *array, int n);
+
+Status InsertSort(int *array, int n);
